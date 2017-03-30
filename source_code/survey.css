@@ -1,0 +1,7 @@
+.questions input[type=submit] {
+  font-size: 30px;
+}
+
+.questions span {
+  padding-left: 5px;
+}

@@ -1,0 +1,27 @@
+ConferenceId,ConferenceName,EventId,Date,"Beginning Time","Ending Time",Title,Venue,"Speaker LastName","Speaker FirstName"
+1,"PolyU Conference First Day",13,2014-11-03,09:00:00,10:00:00,"Keynote Session",,Patt,"Yale N."
+1,"PolyU Conference First Day",17,2014-11-03,01:45:00,03:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",Zhu,Weiping
+1,"PolyU Conference First Day",17,2014-11-03,01:45:00,03:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",Lin,Chi-Yi
+1,"PolyU Conference First Day",17,2014-11-03,01:45:00,03:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",Privitera,Gianluca
+1,"PolyU Conference First Day",17,2014-11-03,01:45:00,03:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",Ma,Hua
+1,"PolyU Conference First Day",10,2014-11-03,07:45:00,08:30:00,Registration,"Silverbox 1-3, Hotel ICON",,
+1,"PolyU Conference First Day",11,2014-11-03,06:30:00,09:30:00,"Conference Reception Dinner","Staff Club, The Hong Kong Polytechnic University",,
+1,"PolyU Conference First Day",12,2014-11-03,08:30:00,09:00:00,"Opening Ceremony",,,
+1,"PolyU Conference First Day",14,2014-11-03,10:00:00,10:30:00,"Coffee Break","Sky Bridge, Hotel ICON",,
+1,"PolyU Conference First Day",15,2014-11-03,10:30:00,12:00:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+1,"PolyU Conference First Day",16,2014-11-03,12:00:00,01:45:00,Lunch,"Silverbox 4, Hotel ICON",,
+1,"PolyU Conference First Day",18,2014-11-03,03:15:00,03:45:00,"Coffee Break","Sky Bridge, Hotel ICON",,
+1,"PolyU Conference First Day",19,2014-11-03,03:45:00,05:30:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+2,"PolyU Conference Second Day",20,2014-11-04,08:15:00,09:00:00,Registration,"Silverbox 1-3, Hotel ICON",,
+2,"PolyU Conference Second Day",21,2014-11-04,06:15:00,09:30:00,"Conference Banquet","Silverbox 4, Hotel ICON",,
+2,"PolyU Conference Second Day",22,2014-11-04,09:00:00,10:00:00,"Keynote Session",,,
+2,"PolyU Conference Second Day",24,2014-11-04,10:00:00,10:30:00,"Coffee Break","Sky Bridge, Hotel ICON",,
+2,"PolyU Conference Second Day",25,2014-11-04,10:30:00,12:00:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+2,"PolyU Conference Second Day",26,2014-11-04,12:00:00,01:45:00,Lunch,"Silverbox 4, Hotel ICON",,
+2,"PolyU Conference Second Day",27,2014-11-04,01:45:00,03:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+2,"PolyU Conference Second Day",28,2014-11-04,03:15:00,03:45:00,"Coffee Break","Sky Bridge, Hotel ICON",,
+2,"PolyU Conference Second Day",29,2014-11-04,03:45:00,05:30:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+3,"PolyU Conference Third Day",30,2014-11-05,08:15:00,08:45:00,Registration,"Silverbox 1-3, Hotel ICON",,
+3,"PolyU Conference Third Day",33,2014-11-05,08:45:00,10:15:00,"Parallel Sessions","Silverbox 1-3, Hotel ICON",,
+3,"PolyU Conference Third Day",34,2014-11-05,10:15:00,10:45:00,"Coffee Break","Sky Bridge, Hotel ICON",,
+3,"PolyU Conference Third Day",35,2014-11-05,10:45:00,11:00:00,"Closing Ceremony","Silverbox 1-3, Hotel ICON",,
